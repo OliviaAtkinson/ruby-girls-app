@@ -35,7 +35,7 @@ img{
 
 .navbar{
     min-height: 38px;
-    background-color: pink;}
+    font-family: pink;}
 
 .navbar a.brand{
     font-size: 18px;}
