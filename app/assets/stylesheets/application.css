@@ -16,30 +16,22 @@
 body{
     padding-top: 60px;
     background-color: gainsboro}
-
 footer{
     margin-top: 100px;}
-
 table, td, th{
     vertical-align: middle; border: none;}
-
 th{
     border-bottom: 1px solid #DDD;}
-
 h1{
     font-family: monospace;}
-
 img{
     width: 20px;
     height:20px;}
-
 .navbar{
     min-height: 38px;
     font-family: pink;}
-
 .navbar a.brand{
     font-size: 18px;}
-
 .navbar a.brand:hover{
     color: #fff;
     background-color: transparent;
